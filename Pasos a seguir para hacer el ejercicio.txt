@@ -1,0 +1,3 @@
+Paso 1: Crear nuestro repositorio en GitHub web.
+Paso 2: Clonar el repositorio en GitHub Desktop.
+Paso 3: En local dentro de la carpeta de Primer Proyecto crear un documento de texto.
