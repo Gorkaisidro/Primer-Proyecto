@@ -3,4 +3,4 @@ Paso 2: Clonar el repositorio en GitHub Desktop.
 Paso 3: En local dentro de la carpeta de Primer Proyecto crear un documento de texto.
 Paso 4: Subir ese documento a remoto. Git Add.
 Paso 5: Modificar el documento en remoto.
-Paso 6: Bajarnoslo en el local modificado.
+Paso 6: Bajarnoslo en el local modificado. Git Pull.
